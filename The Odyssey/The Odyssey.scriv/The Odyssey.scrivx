@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Baileys-MacBook-Air" Modified="2016-05-12 14:24:20 -0500" ModID="12AFD136-16FB-4080-970D-D385FBE32D9F">
+    <Binder>
+        <BinderItem ID="0" UUID="67D7C10F-6F5E-46FF-BFAB-C2F2E7A46972" Type="DraftFolder" Created="2016-04-27 13:31:18 -0500" Modified="2016-04-27 13:31:18 -0500">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="27" UUID="D1824E90-CE89-4905-9426-602E0B8286EE" Type="Text" Created="2016-05-11 12:36:09 -0500" Modified="2016-05-12 11:33:02 -0500">
+                    <Title>Cover Page</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>849,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="31" UUID="21189A38-DAA0-4BE8-841F-996CB6FD4F00" Type="Text" Created="2016-05-12 11:45:07 -0500" Modified="2016-05-12 11:48:26 -0500">
+                    <Title>TOC</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>99,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="3" UUID="380548CE-E742-4B0F-B291-B06DB741691D" Type="Text" Created="2016-04-27 13:31:18 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK ONE</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="77969600-C503-4159-9004-BCA127FDAF65" Type="Text" Created="2016-04-27 13:37:00 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK TWO</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="EDC88F13-3D43-431E-A4BE-330166978FBE" Type="Text" Created="2016-04-27 13:43:10 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK THREE</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="C9416135-4D7A-400C-B88A-60661FB84B76" Type="Text" Created="2016-04-27 14:21:09 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK FOUR</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="6904830F-0883-4053-BCF7-1DF104996A3F" Type="Text" Created="2016-04-27 14:26:20 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK FIVE</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>74,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="7AEEED0B-653D-4F42-8FB0-1C304D8D40A7" Type="Text" Created="2016-04-27 14:30:08 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK SIX</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="514D8C11-AA80-4574-BBFD-E493CE896B43" Type="Text" Created="2016-04-30 11:26:11 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK SEVEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>609,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" UUID="D143ABEE-0092-4AC5-96F6-389924F2CA7F" Type="Text" Created="2016-05-07 15:19:22 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK EIGHT</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>434,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" UUID="59CA73F5-604A-4A2C-A36F-F47DBFD2C19B" Type="Text" Created="2016-05-07 15:36:03 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK NINE</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>472,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="5B163C69-5AB5-4361-BA28-A8CA5D4CED4E" Type="Text" Created="2016-05-07 15:43:19 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK TEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" UUID="914BE94E-777E-4264-B3ED-C060A5A961FF" Type="Text" Created="2016-05-07 16:11:20 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK ELEVEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1170,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" UUID="F1FFC077-49B1-4BC5-812F-E04DA281EE18" Type="Text" Created="2016-05-07 16:16:21 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK TWELVE</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" UUID="68A27A84-FE45-4D49-B861-008DD2F3576B" Type="Text" Created="2016-05-07 16:19:47 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK THIRTEEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" UUID="A418A080-07EA-4F60-8BD9-64166F3DEFA0" Type="Text" Created="2016-05-07 16:24:04 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK FOURTEEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="18" UUID="0DF2DDA2-95ED-44F4-8128-E9B20E35F783" Type="Text" Created="2016-05-09 02:08:35 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK FIFTEEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="19" UUID="3DACA329-B67B-420B-9B87-9EB4B278FEC2" Type="Text" Created="2016-05-09 18:07:16 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK SIXTEEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>12,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="20" UUID="494F6847-57BC-41DE-B1C5-CD5B9B23B836" Type="Text" Created="2016-05-09 18:23:27 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK SEVENTEEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>14,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" UUID="D054D8F5-D401-4A5C-8C85-3DB861333A4B" Type="Text" Created="2016-05-09 19:56:12 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK EIGHTEEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="22" UUID="71D6512B-0824-4129-A794-9ADC2951A153" Type="Text" Created="2016-05-09 20:08:33 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK NINETEEN</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="23" UUID="63F6C630-5598-4903-8A37-2137C985C14E" Type="Text" Created="2016-05-11 11:52:50 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK TWENTY</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="24" UUID="7B1AA2C8-581E-4FB0-AA53-02304DDC50DB" Type="Text" Created="2016-05-11 11:56:57 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK TWENTY-ONE</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="25" UUID="67AA84BB-9D5E-4D22-B501-D4FFF3166435" Type="Text" Created="2016-05-11 12:00:12 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK TWENTY-TWO</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="26" UUID="9EC94655-AF41-4A0B-9521-86871DF5937E" Type="Text" Created="2016-05-11 12:06:54 -0500" Modified="2016-05-11 12:42:13 -0500">
+                    <Title>BOOK TWENTY-THREE</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1782,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="28" UUID="7EC7A95C-4E7A-4E0C-A8E1-039AFE72EE02" Type="Text" Created="2016-05-11 12:39:16 -0500" Modified="2016-05-12 11:44:23 -0500">
+                    <Title>BOOK TWENTY-FOUR</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,46478</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="32" UUID="7DCCE3E5-367D-4B8C-8728-F3F0A3207446" Type="Text" Created="2016-05-12 14:24:06 -0500" Modified="2016-05-12 14:24:08 -0500">
+                    <Title>`</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="979A4E7C-DB25-48E6-B19E-58C83DF17DEA" Type="ResearchFolder" Created="2016-04-27 13:31:18 -0500" Modified="2016-04-27 13:31:18 -0500">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="30" UUID="28520066-D7D6-4BD5-B13C-219075C3777E" Type="Folder" Created="2016-05-12 11:42:41 -0500" Modified="2016-05-12 11:42:41 -0500">
+            <Title>Garriga (Unsorted)</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Book (Brown).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="29" UUID="A0703422-4C0C-4AE3-9672-6B7F7AD182A7" Type="Text" Created="2016-05-12 11:42:41 -0500" Modified="2016-05-12 11:48:26 -0500">
+                    <Title>TOC</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>157,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="DBDECB5A-D657-48BF-9F51-CD97B5C9DD42" Type="TrashFolder" Created="2016-04-27 13:31:18 -0500" Modified="2016-04-27 13:31:18 -0500">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="5" UUID="9EC7D71C-AB8F-431D-A7D7-4D3783643557" Type="Text" Created="2016-04-27 13:43:02 -0500" Modified="2016-04-27 13:43:20 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="B7F7E7A2-E1F7-4CC1-B6A5-6ED8006AAACE" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="4C55C6B2-8BDF-4108-AE00-03C162C93E27" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="35077D68-F497-42CE-8A93-165D5D441C4E" Color="0.870716 0.758261 0.85014">
+            <Title>Garriga</Title>
+            <BinderIDs>
+                <BinderID>27</BinderID>
+                <BinderID>29</BinderID>
+                <BinderID>3</BinderID>
+                <BinderID>7</BinderID>
+                <BinderID>12</BinderID>
+                <BinderID>13</BinderID>
+                <BinderID>14</BinderID>
+                <BinderID>15</BinderID>
+                <BinderID>25</BinderID>
+                <BinderID>26</BinderID>
+                <BinderID>28</BinderID>
+            </BinderIDs>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectProperties>
+        <ProjectTitle>The Odyssey</ProjectTitle>
+        <AbbreviatedTitle>The Odyssey</AbbreviatedTitle>
+        <FullName>Homer</FullName>
+        <LastName></LastName>
+        <FirstName></FirstName>
+    </ProjectProperties>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-04-27 13:31:17 -0500" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="76" Characters="417" Date="2016-05-12 11:26:44 -0500"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

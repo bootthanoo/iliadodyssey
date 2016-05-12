@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Baileys-MacBook-Air" Modified="2016-05-12 16:05:20 -0500" ModID="EE2699CB-7EC6-4D60-B94A-398C0C103C54">
+    <Binder>
+        <BinderItem ID="0" UUID="EFE0B83F-1927-460C-A669-6CE59E5886F1" Type="DraftFolder" Created="2016-04-25 13:39:42 -0500" Modified="2016-04-25 13:39:42 -0500">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="83" UUID="91BECB83-6D00-4DF7-9FE5-3ED2D48FB80A" Type="Text" Created="2016-05-12 12:09:58 -0500" Modified="2016-05-12 12:10:13 -0500">
+                    <Title>TOC</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,418</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="2D63155C-4A7E-4CA9-82B0-8A7BA0466383" Type="Text" Created="2016-04-25 14:33:19 -0500" Modified="2016-04-26 22:58:56 -0500">
+                    <Title>Book One</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Book (Blue Book).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,47186</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="36" UUID="05E5C61B-C527-465A-A038-85E86126BD34" Type="Text" Created="2016-04-26 16:20:57 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Two</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>65,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="37" UUID="FDE24800-A485-4850-ACC7-C3A6BFF93DC8" Type="Text" Created="2016-04-26 16:30:23 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Three</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>512,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="39" UUID="A5007418-0A24-425D-B2CE-DD7A7233079A" Type="Text" Created="2016-04-26 16:46:51 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Four</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Book (Blue Book).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>284,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="40" UUID="E81EB53D-2867-4D19-BD3E-30410A79608C" Type="Text" Created="2016-04-26 17:00:55 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Five</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,71568</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="35" UUID="A9B93973-2C25-4823-9847-3B646DD695F1" Type="Text" Created="2016-04-26 15:51:38 -0500" Modified="2016-04-26 22:47:18 -0500">
+                    <Title>Book Six</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>522,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="41" UUID="76148FC5-1E64-4ED7-9438-4C0FC7DB3BDA" Type="Text" Created="2016-04-26 17:06:49 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Seven</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2264,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="42" UUID="7450D666-EB87-4FFE-A0D1-A1949FCD186E" Type="Text" Created="2016-04-26 17:27:27 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Eight</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>786,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="43" UUID="0C926446-E111-43ED-A3BE-9F56D24DAFD9" Type="Text" Created="2016-04-26 17:32:49 -0500" Modified="2016-04-26 22:57:28 -0500">
+                    <Title>Book Nine</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Book (Blue Book).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>49,546</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="44" UUID="2F8D9390-D342-4E73-942D-CD85ABE352B9" Type="Text" Created="2016-04-26 17:37:25 -0500" Modified="2016-04-26 22:47:59 -0500">
+                    <Title>Book Ten</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>647,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="45" UUID="9F153AEC-535C-42E5-953F-9A61E69FB178" Type="Text" Created="2016-04-26 17:43:20 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Eleven</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8277,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="46" UUID="52160315-0D05-4C9C-8EB3-597B7C54A7EC" Type="Text" Created="2016-04-26 18:10:51 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Twelve</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>622,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="68" UUID="BEB6CA4B-4FBB-44A0-828F-C299AC02514F" Type="Text" Created="2016-04-26 18:27:23 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Thirteen</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>54,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="69" UUID="EFFE9920-BDB9-4254-AF8B-353CB4B814B5" Type="Text" Created="2016-04-26 18:48:00 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Fourteen</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>39,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="70" UUID="7C6A882F-96FF-4A73-A9D4-A2D6DAEA678B" Type="Text" Created="2016-04-26 19:09:04 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Fifteen</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>753,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="71" UUID="1EC7A51B-AF4A-4CE8-AF34-A5E63EC45C44" Type="Text" Created="2016-04-26 19:29:13 -0500" Modified="2016-04-26 22:24:19 -0500">
+                    <Title>Book Sixteen</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Book (Blue Book).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>39,588</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="72" UUID="FBBA80BB-B933-438C-8CFB-93ED56FB91FB" Type="Text" Created="2016-04-26 19:33:26 -0500" Modified="2016-04-26 22:24:20 -0500">
+                    <Title>Book Seventeen</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>51,828</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="73" UUID="18247B2E-8820-4BAF-A07F-CE87FD22AE04" Type="Text" Created="2016-04-26 19:55:53 -0500" Modified="2016-04-26 22:24:20 -0500">
+                    <Title>Book Eighteen</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>46,630</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="74" UUID="5DB9F6D7-87FF-4F1A-A1B9-9736881A6322" Type="Text" Created="2016-04-26 20:08:13 -0500" Modified="2016-04-26 22:51:11 -0500">
+                    <Title>Book Nineteen</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>611,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="75" UUID="0B467839-5EAB-42CC-9539-3C2BFA0E916D" Type="Text" Created="2016-04-26 20:10:00 -0500" Modified="2016-04-26 22:24:20 -0500">
+                    <Title>Book Twenty</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1260,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="76" UUID="182F7C31-044C-4F4E-A7E1-811D2FE3D313" Type="Text" Created="2016-04-26 21:27:34 -0500" Modified="2016-04-26 22:24:20 -0500">
+                    <Title>Book Twenty One</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>43,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="77" UUID="1605FCDB-0A51-47DE-9849-F43BF274F1C6" Type="Text" Created="2016-04-26 21:34:33 -0500" Modified="2016-04-26 22:24:20 -0500">
+                    <Title>Book Twenty Two</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Book (Blue Book).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>712,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="78" UUID="345DBF4F-F5C4-402C-8490-0246A7D0A9D2" Type="Text" Created="2016-04-26 22:06:19 -0500" Modified="2016-04-26 22:24:20 -0500">
+                    <Title>Book Twenty Three</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (Green Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>51,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="80" UUID="26342E37-4956-4A60-BF70-18BA18525503" Type="Text" Created="2016-04-26 22:15:20 -0500" Modified="2016-04-26 22:24:20 -0500">
+                    <Title>Book Twenty Four</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Book (Blue Book).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1287,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="90F6EE5B-95E8-48A6-A652-1D69A2FCA567" Type="ResearchFolder" Created="2016-04-25 13:39:42 -0500" Modified="2016-04-25 13:39:42 -0500">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="85" UUID="F53DBA8B-668D-412D-8B7E-C651E84B1C17" Type="Folder" Created="2016-05-12 12:10:16 -0500" Modified="2016-05-12 12:10:16 -0500">
+            <Title>Syllabus (Unsorted)</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Book (Brown).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="84" UUID="30EA2333-D6D1-44F2-85A4-30BA4F8C0FBF" Type="Text" Created="2016-05-12 12:10:16 -0500" Modified="2016-05-12 12:10:37 -0500">
+                    <Title>TOC</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,104</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="81" UUID="046E678D-008C-450F-BEE6-B5F8F29B942E" Type="Text" Created="2016-04-27 00:07:04 -0500" Modified="2016-05-12 12:11:44 -0500">
+                    <Title>Cover Page</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1315,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="0D6BF93B-E3C8-4D49-B5E4-2A58405C6FE0" Type="TrashFolder" Created="2016-04-25 13:39:42 -0500" Modified="2016-04-25 13:39:42 -0500">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="3CDDDD8B-1B7F-4F14-BDBB-CD997B0C84FF" Type="Text" Created="2016-04-25 13:39:42 -0500" Modified="2016-04-25 14:07:33 -0500">
+                    <Title>Book One The Quarrel by the Ships</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,33181</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="87A4E238-5AA8-4ABA-8B88-BE9956213353" Type="Text" Created="2016-04-25 14:16:21 -0500" Modified="2016-04-25 14:18:01 -0500">
+                    <Title>Book Two</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>55446,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="29" UUID="EF6520AF-0561-41C9-BC37-6CBC805231F0" Type="Text" Created="2016-04-25 23:17:40 -0500" Modified="2016-04-25 23:17:40 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="31" UUID="5D40D8F4-1805-4549-816A-5C8B5FC54CEC" Type="Text" Created="2016-04-26 15:29:50 -0500" Modified="2016-04-26 15:36:38 -0500">
+                    <Title>s</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="32" UUID="DEDE76A4-3015-437D-BA95-DFC6A9CE846D" Type="Text" Created="2016-04-26 15:36:23 -0500" Modified="2016-04-26 15:36:38 -0500">
+                    <Title>.     When the Trojans reached the ford across the</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>44196,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="33" UUID="8D684ADA-5706-44E5-8CEB-E3C0911CD057" Type="Text" Created="2016-04-26 15:44:05 -0500" Modified="2016-04-26 15:45:40 -0500">
+                    <Title>When the Trojans reached the ford across the Xanthus</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2848,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" UUID="EC977B63-580C-4457-80C6-B3481B5B8BDC" Type="Text" Created="2016-04-25 14:20:30 -0500" Modified="2016-04-26 16:21:07 -0500">
+                    <Title>Book II Agamemnon's Dream and the Catalogue of Ships
+ [Zeus sends a false dream to Agamemnon; Agamemnon reports the dream to his advisors and outlines a test of the army; Agamemnon urges his troops to go home; Odysseus restores order; Thersites insults Agamemnon; Odysseus deals with Thersites, reminds the men of Calchas' original prophecy; Nestor suggests a display of the troops; the Catalogue of Ships (list of the Achaean, Trojan, and allied forces)]
+Gods and warriors slept through the entire night. But sweet Sleep did not visit Zeus, tossing and turning over in his mind some way to honour Achilles, by slaughtering many soldiers by the Achaean ships. In Zeus’ heart the best idea seemed to be to send out a wicked Dream to Agamemnon. Calling the Dream, Zeus said these winged words to him:
+“Evil Dream, fly quickly to Achaea’s men, by their swift ships. Go to Agamemnon’s hut,                                            10            [10] Atreus’ son. Report my words precisely. Bid him quickly arm long-haired Achaean troops, for now they’ll capture Troy, city of wide streets. Immortal gods who dwell on Mount Olympus no longer disagree about all this. Hera’s entreaties have persuaded them. Trojans can expect more sorrows, more disasters.”
+Zeus spoke. With these instructions, Dream set off, quickly reaching Achaea’s fast ships and Atreus’s son. He found Agamemnon resting in his hut, wrapped up in the sweet divinity of Sleep.                                                                             20 Dream stood above his head, looking just like Nestor,                                                              [20] son of Neleus, of all the more senior men the one Agamemnon held in special honour. In that shape, divine Dream spoke to Agamemnon:
+“You are sleeping, son of fiery Atreus, tamer of horses. But a prudent man, one to whom people have given their trust, who has so many things to think about, shouldn’t sleep all night. So pay attention. Hear what I have to say. I come to you                                     30 as Zeus’ messenger, with his orders. He’s far off, but pities and cares for you. He bids you quickly arm long-haired Achaeans, for now you can take Troy, city of wide streets. The immortal gods who dwell on Mount Olympus                                               [30] no longer disagree about all this. Hera’s entreaties have persuaded them. Trojans can expect from Zeus more sorrows, more disasters. Remember what I’ve said. Don’t let forgetfulness seize your mind,                                                            40 when honey Sleep has loosed his sweet grip on you.”
+This said, Dream went off, leaving the king imagining things which would not come to pass. He thought he’d take Troy, Priam’s city, that very day. Fool! He had no clue of what Zeus really meant, his plan to load on them, Trojans and Danaans both, still more suffering, more cries of sorrow, through war’s brutality.                                                                                    [40]
+Agamemnon roused himself from sleep, the divine voice all round him still. He sat up, pulled on a supple tunic, new and finely made. On top he threw a large cloak.                                                 50 He laced up lovely sandals over his sleek feet and slung a silver-studded sword around both shoulders. He took with him the royal staff of his ancestors, eternal and imperishable. Gripping this, he approached the ships of the bronze-armed Achaeans.
+When goddess Dawn rose high up on Olympus, bringing light to Zeus and the immortals, Agamemnon bid the loud-voiced heralds summon                                                                      [50] all the long-haired Achaeans to assembly. Such a call went out. Men answered on the run.                                                             60 But first, Agamemnon convened a meeting of all his great-hearted senior counsellors. They met by Nestor’s ships, king born on Pylos. To the assembled group Agamemnon then sketched out a plan he had conceived—a devious one.
+                                 “My friends, listen. A divine Dream has just come to me, through the sacred night, as I lay asleep, in form, size, and voice just like worthy Nestor. He stood above my head and spoke these words:
+                      ‘You are sleeping, son of fiery Atreus,                                                            70            [60] tamer of horses. But a prudent man, one to whom people have given their trust, who has so many things to think about, shouldn’t sleep all night. So pay attention. Hear what I have to say. I come to you as Zeus’ messenger, with his orders. He’s far off, but pities and cares for you. He bids you quickly arm long-haired Achaeans, for now you can take Troy, city of wide streets. Immortal gods who dwell on Mount Olympus                           80 no longer disagree about all this. Hera’s entreaties have persuaded them. The Trojans can expect from Zeus more sorrows,                                                    [70] more disasters. Remember what I’ve said.’
+With that, Dream flew off, sweet Sleep released me. Come, then, let’s get long-haired Achaeans somehow armed for battle. But first, it’s only right I test the men, ordering them to go home in their ships with many oars. You hold them back with your commands,                                                  90 each one working from his own position.”
+Agamemnon finished speaking and sat back down. Nestor stood up before them, king of sandy Pylos. With a wise sense of their common cause, he addressed them:
+“My friends, chiefs and leaders of the Argives, if any other Achaean had told us such a dream,                                                       [80] we would declare it quite false, dismiss it. But now the man who has a claim to be the greatest of Achaeans has witnessed it. So come, let’s find a way to arm Achaea’s sons.”                                      100
+So Nestor spoke. Then he began to make his way back, leaving the council meeting. The others stood up, all sceptre-bearing kings, following Nestor’s lead, his people’s shepherd. Troops came streaming out to them. Just as dense clouds of bees pour out in endless swarms from hollow rocks, in clusters flying to spring flowers, charging off in all directions, so from ships and huts                                                                [90] the many clans rushed out to meet, group after group. Among the troops Rumour blazed, Zeus’ messenger, igniting them. The assembly was in uproar.                                                                         110 Beneath the men, as they sat amid the din, earth groaned. Nine heralds shouted out instructions, attempting to control the noise, so men could hear their leaders, god’s chosen ones. Gradually men settled down, kept quiet in their places. The noise subsided. King Agamemnon stood up, hands gripping his staff,                                                              [100] one fashioned by Hephaestus’ careful craftsmanship. That god had given it to lord Zeus, son of Cronos. Later Zeus had presented it to Hermes, the guide, killer of Argus. Hermes, in his turn,                                                                  120 gave it to king Pelops, the chariot racer, who passed the staff to Atreus, the people’s leader. This man, as he lay dying, left it for Thyestes, who owned many flocks. Thyestes, in his turn, passed it onto Agamemnon, who held it as ruler of all Argos and many islands. With this staff as his support, Agamemnon spoke:
+         “You Danaan warriors, comrades,                                                                                          [110] companions of Ares, god of war, Zeus, son of Cronos, has entangled me                                     130 in some really serious foolishness. Perverse Zeus! He promised me, he agreed— I’d have devastated well-built Troy before going home. Now he plans a cruel trick, tells me to return to Argos dishonoured, after I’ve lost so many warriors. This is apparently what high Zeus desires, he who has smashed so many city heights, and will destroy still more, such is his power, the greatest power of all. This is a great disgrace,                                  140 which people will learn about in years to come— how an Achaean force of such quality and size                                                        [120] vainly sailed off to fight a lesser force, and failed to get what they set out to take. For if we Achaeans and the Trojans wished, in good faith, to draw up a treaty, to tally up the numbers on both sides, with Trojans counting each inhabitant of Troy, and if we Achaeans set ourselves in groups of ten, then chose, for every group, a Trojan man                                150 to pour our wine, then of our groups of ten many would lack a man to act as steward. That, I tell you, indicates just how much Achaea’s sons outnumber Trojans, those who live in Troy. But all their allies,                                                                       [130] warrior spearmen from many cities, are a huge problem for me. They thwart my wish to smash down those sturdy walls of Troy. Nine of great Zeus’ years have rolled on past. Ships’ planks have rotted, their ropes have frayed.                               160 Back home our wives and children wait for us. The work for which we came remains undone. So come, let’s all agree to what I say. Let’s go back to our own dear country in our ships.                                            [140] For we’ll not capture Troy with its broad streets.”
+So Agamemnon spoke. Among the soldiers, all those with no idea of what he’d planned, men’s feelings quickened. The assembly was aroused. Just like huge ocean waves on the Icarian Sea, when East Wind and South Wind rush down together                           170 from Father Zeus’ clouds to whip up the sea, the whole assembly rippled, like a large grain field, undulating under the fury of the storm, as West Wind roars in with force, all ears of corn ducking down under the power of the gusts— that’s how the shouting men stampeded to their ships.                                                         [150] From underneath their feet a dust cloud rose. They yelled orders to each other to grab the ships, drag them to the sacred sea, clear out channels for launching boats, knock out props from underneath,                                        180 frantic to get home. Heaven echoed with the din. At that point, the Argives might well have gone back— contravening what Fate had proposed for them— if Hera had not spoken to Athena:
+ “Alas, unconquerable child of Zeus, who bears the aegis, the Argives will flee, go back home to their dear native land, cross the wide sea, abandoning Helen, an Argive woman, leaving in triumph Priam and his Trojans. On her account,                                                            190          [160] many Achaeans have perished here in Troy, far from the homes they love. So now, come on, go down to the bronze-clad Achaean troops, use your persuasive power to stop the men hauling their curved ships down into the sea.”
+So Hera spoke. Bright-eyed goddess Athena obeyed. She sped off, raced down from Mount Olympus’ crest, quickly reached Achaea’s swift ships, rushing to the spot Odysseus, a man as wise as Zeus, was standing. He’d laid no hand on his fast, black, well-decked ship.                                            200         [170] His stout heart was filled with pain. Standing close to him, bright-eyed Athena spoke to him:
+                                                   “Odysseus, divinely bred, Laertes’ resourceful son, so you are going to fly back home, sail off to your own dear country. You’ll leap into your ships with many oars, and leave in triumph Priam and the Trojans, abandoning Argive Helen, for whose sake so many Achaeans have died here in Troy, far from the homes they love. But come now,                                             210 move around among Achaean soldiers. Don’t hesitate. Persuade each man to stop                                                                   [180] dragging the curved ships down into the sea.”
+So Athena spoke. Odysseus knew her from her voice, as she talked. Then he ran, shrugging off his cloak— Eurybates, the herald, later picked it up, a man from Ithaca, aide to Odysseus. Odysseus went straight to Agamemnon, Atreus’ son, took from him his imperishable ancestral staff. Grasping this, he ran to the bronze-clad Achaeans’ ships.                                   220 When he came across some king or prominent leader, he’d confront him, telling him to hold his ground:
+                  “Friend, it’s not suitable for you to panic,                                                                  [190] as if you’re worthless. Take your seat instead. Get other soldiers to remain in place. You’ve no clear sense of Agamemnon’s plan. Right now he’s testing all the army. Soon enough he’ll punish Achaea’s sons. Didn’t we all hear what he said in council? In his rage he may harm Achaean troops—                              230 passions run high in kings whom Zeus supports. Their honour comes from Zeus the Counsellor, who loves them.”    
+                                    By contrast, when Odysseus came across some common soldier yelling out, he’d beat him with the staff, admonishing him:
+                  “My friend, take your place in silence. Stay put.                                                 [200] Listen to what others say, your betters, you puny coward, useless in war or council. Achaeans can’t all rule here as kings. No good comes from having many leaders.                                                    240 Let there be one in charge, one ruler, who gets from crooked-minded Cronos’ son sceptre and laws, so he may rule his people.”
+Odysseus moved throughout the army, calming things. From ships and huts, soldiers rushed to reassemble, echoing like waves of the roaring sea crashing on shore, as Ocean thunders on. Men sat calmly in their places.                                                             [210] But a single man kept on yelling out abuse— scurrilous Thersites, expert in various insults, vulgar terms for inappropriate attacks on kings,                                                             250 whatever he thought would make the Argives laugh. Of all the men who came to Troy, he was the ugliest— bow legged, one crippled foot, rounded shoulders curving in toward his chest. On top, his pointed head sprouted thin, scraggly tufts of hair. Achilles hated him,                                                      [220] as did Odysseus, too, both subject to his taunts. But now Agamemnon was the target of his gibes. The Achaeans, despising Thersites in their hearts, were furious at him. But he kept shouting out, aiming noisy insults right at Agamemnon:                                                                             260
+ “Son of Atreus, what’s your problem now? What do you lack? Your huts are stuffed with bronze, plenty of choice women, too—all presents we Achaeans give you as our leader, whenever we ransack some city. Or are you in need of still more gold, a ransom fetched by some horse-taming Trojan                                                      [230] for his son tied up and delivered here by me or by some other Achaean? Or do you want a young girl to stash away,                                                   270 so you’re the only one who gets to screw her? It’s just not fair that you, our leader, have botched things up so badly for us, Achaea’s sons. But you men, you soldiers, cowardly comrades, disgraceful people, you’re Achaean women, not warriors. Let’s sail home in our ships, leave this man, our king, in Troy here to enjoy his loot. That way he might come to recognize whether or not we’re of some use to him.                                                        280 Now Agamemnon has even shamed Achilles, a much finer warrior than himself, stealing a prize, keeping it for his own use.                                                                   [240] Then there’s Achilles, no heart’s anger there, who lets it all just happen. If he didn’t, this bullying of yours, son of Atreus, would be your last.”
+                          Thersites yelled out these insults right at Agamemnon, the people’s shepherd, abusing him. Noble Odysseus stood up quickly, confronting Thersites. Scowling, he lashed out sternly:                                          290
+ “Shut up, chatterbox. You’re a champion talker. But don’t try to have it out with kings, all by yourself. Let me tell you something— of all those who came to Troy with Atreus’ sons, you’re the most disgraceful. So shut your mouth.                                                  [250] No more words from you abusing our kings, seeking to sneak back home. How this war will end, we’ve no idea—whether Achaea’s sons will go back home successful or will fail. You sit here, railing at Agamemnon,                                                                     300 Atreus’ son, leader of his people, because Danaan heroes have given him so many gifts—but that’s a cheap insult. So I’ll tell you how things are going to be. If I find you being so foolish any more, then let Odysseus’ head no longer stay upon his shoulders, let him no longer be called the father of Telemachus,                                                                                        [260] if I don’t grab you, rip off all your clothes, cloak and tunic, down to your cock and balls,                                           310 and beat you back to the fast ships in tears, whipping you in shame from our assembly.”
+Saying this, Odysseus lashed out with the sceptre, hitting Thersites hard across his back and shoulders. He doubled up in pain, shedding many tears. In the middle of Thersites’ back sprang up bloody welts beneath the golden sceptre. He sat down, afraid and hurt, peering around, like an idiot, and rubbing away his tears. The soldiers, though discontent, laughed uproariously,                                         320          [270] saying to one another:
+                                                          “Comrades, before now Odysseus has done good things thinking up fine plans and leading us in war. But that’s the best thing he’s done by far to help the Argives, shutting up that rabble-rouser. Thersites’ bold spirit won’t urge him on to trash our kings again with his abuse.”
+That’s how the soldiers talked together. Then Odysseus, destroyer of cities, rose up, grasping the sceptre. At his side, bright-eyed Athena, looking like a herald,                                              330 silenced troops, so Achaeans close by and far away                                                                    [280] could hear him and follow his advice. Odysseus, bearing in mind their common good, spoke out:
+                                             “Son of Atreus, now the Achaeans wish to disgrace you, their king, shame you before all mortal men. They’re refusing now to keep their promise, the one they all swore to while sailing here, still on their way from horse-breeding Argos, that oath that they’d return after we’d destroyed Troy’s strong walls. Like widows or small children,                              340 they’re whining to each other to go home.                                                                     [290] But going back demoralized is bad. A man who spends one month aboard his ship, away from his wife, becomes downhearted when winter gusts and stormy seas confine him. This is now the ninth revolving year we’ve been waiting here, on this very spot. So I don’t think that badly of Achaeans in their frustration here by their curved ships. Still, it’s shameful to go home with nothing.                                                350 My friends, be patient, give us all more time, until Calchas’ prophecy comes true or not.                                                                    [300] We all have kept in mind what he foretold. You all are witnesses, the ones whom Fate has not yet visited to carry off in death. Not long ago, when our Achaean ships gathered at Aulis, bringing disaster for Priam and his Trojans, we sacrificed on holy altars placed around a spring hundreds of perfect creatures to the gods,                                                    360 the immortals—underneath that tree, a lovely plane tree, where bright water flowed. And then a great omen appeared, a snake, blood-red along its back, a dreadful sight, a thing sent out by Zeus into the daylight.* Out from under the altar that snake slithered,                                                          [310] darting for the plane tree, where there lay tiny, new-born sparrows, eight fledglings, huddled under foliage at the very top. The ninth one was the mother of the batch.                                                370 The serpent ate the infants, who screamed with fear. The mother fluttered around here and there, lamenting her dear chicks. The coiled serpent snatched the crying mother by the wing. Once the beast had gobbled up the sparrow and her chicks, the god who’d made the snake appear did something to it there for all to see. Crooked Cronos’ son changed that snake to stone! We stood there astounded at what we’d seen—                                                      [320] a horror desecrating the gods’ sacrifice.                                                            380 Calchas at once spoke out in prophecy:
+‘Long-haired Achaeans, why stand there so mute? Counsellor Zeus has made manifest to us a tremendous omen. It has come late, and will take many years to be fulfilled, but its fame will never die. Just as that snake swallowed the sparrow’s brood, eight in all, with the mother who bore them the ninth one killed, so that’s how long we’ll fight them over there. In the tenth year we’ll take Troy, wide streets and all.’                       390
+              That’s what Calchas said. Now it’s coming true.                                                       [330] So come on, all you well-armed Achaeans, let’s stay, until we seize Priam’s great city.”
+At this speech Argives gave out an enormous cheer. The ships on all sides resounded ominously, as Achaeans roared out their endorsement of his words. Then Nestor, the Geranian horseman, cried out:
+“Alas! In our assembly you’re all infants, silly children, with no sense of war’s events. What will happen to our agreements,                                                                  400 the oaths we made? Let fire consume                                                                                 [340] our strategies, men’s plans, our treaties, ratified with wine and handshakes, those things we used to trust. For now we fight ourselves, arguing like this. We can’t find any remedy, though we’ve been sitting here for years. Son of Atreus, you must maintain with force your previous plan to lead the Argive troops directly to the harsh demands of war. And let those one or two be damned,                                                                  410 the men who don’t think like Achaeans, the few of them who yearn to go back home— something they’ll find impossible to do— before we learn the truth or falsehood of what was promised by aegis-bearing Zeus. For I assure you mighty Zeus nodded assent                                                               [350] on that very day the Argives put to sea, bearing Troy’s destructive fate in their swift ships. On our right hand, Zeus hurled down lightning bolts, signs manifesting his good will to us.                                                                   420 So let no man run off to get back home— not before he’s had sex with some Trojan’s wife, payment for Helen’s miseries, her cries of pain. If any man is really keen to get back home, let him just set hand to his well-benched ship, he’ll come face to face, in plain view of all, with death, his fate. You, my lord, think carefully— think about what someone else suggests.                                                                       [360] Don’t simply throw out what I say to you. Agamemnon, set men in groups by tribes and clans,                         430 so clans encourage clans, tribes bolster tribes. If you do that, if Achaeans all obey, you’ll then recognize who’s good and bad among your leaders and your men. Ranged like that, the two groups will stand against each other. You’ll then know whether failure to take Troy stems from divine will or craven soldiers or ineptitude in managing the war.”
+Mighty Agamemnon then answered Nestor:
+              “Old man, in our assembly once again                                       440         [370] you win out over all Achaea’s sons. O Father Zeus, Athena, and Apollo— if I only had ten such counsellors among Achaeans, king Priam’s city would soon fall, be taken, sacked at our hands. But aegis-bearing Zeus, son of Cronos, keeps showering me with grievous troubles. He throws me into pointless bitter fights. So Achilles and I fought for that girl, yelling at each other. The first fault was mine.                                          450 But if we two agreed, were of one mind, then Troy’s fate would be sealed without delay,                                                      [380] without a moment’s pause. But let’s go off to eat, so we can resume the fight. Every one of you, get your spears and shields prepared for action. Feed your swift-footed horses properly. Inspect the chariots with a careful eye, so we can stand all day and battle Ares, hateful god of war. We’ll get no respite, not even for a moment, except at dusk,                                                             460 when nightfall separates the frenzied soldiers. Chest straps on our protective body shields will be soaked through with sweat. Around our spears hands will grow numb. Horses, too, will sweat,                                                        [390] under the strain of hauling polished chariots. But if I see a man coming out to fight reluctantly, hanging back by our curved ships, he’ll not escape being food for dogs and birds.”
+Argives answered Agamemnon with a mighty roar, like waves by a steep cliff crashing on the rock face,                                                   470 lashed by South Wind’s blasts, always foaming on the rock, whipped on by every wind gusting here and there. The men leapt up, moved off, scattering to ships, set fires by their huts, and each man ate his dinner. Every man then sacrificed to the immortal gods,                                                                            [400] praying to escape death and war’s killing zone. Agamemnon, king of men, sacrificed an ox, a fat one, five years old, to Zeus, exalted son of Cronos. He summoned the best senior men of all Achaeans— first, Nestor and Idomeneus, then both Ajaxes,                                                                480 then Diomedes, Tydeus’ son. Seventh came Odysseus. Warrior Menelaus arrived without a summons, knowing in his heart all Agamemnon’s worries. They stood by the ox, with barley grains for sprinkling.                                                          [410] Then Agamemnon prayed on their behalf:
+                               “Most powerful Zeus, exalted lord of thunder clouds, Zeus, who dwells in heaven, grant my prayer— May the sun not go down, nor darkness come, before I have cast down Priam’s palace, covered it with dust, destroyed its doors                                  490 in all-consuming fire, and with my bronze sword sliced to shreds the tunic on Hector’s chest. May many of his comrades lie beside him, face down on the ground, teeth grinding dirt.”
+So he prayed. But Cronos’ son did not grant his wish. Zeus took the offering but increased their suffering.                                                                  [420]
+Once the men had prayed, scattering barley grain, they pulled back the beast’s head, slit its throat, flayed it, sliced thigh bones out and hid them in twin layers of fat, with raw meat on top. They cooked these on split wood,                                      500 then placed the innards on spits in Hephaestus’ fire. When the wrapped-up thigh bones were completely cooked, and they’d tasted samples of the inner organs, they chopped up the rest, arranged the meat on spits, cooked it carefully, then drew it from the fire. This work finished, the men prepared a meal and ate.                                                              [430] Each soldier’s appetite was fully satisfied— all dined equally. When every man had eaten as much food and drink as anyone could wish, Geranian horseman Nestor was the first to speak.                                                         510
+“Lord Agamemnon, son of Atreus, king of men, let’s end our discussions now and not postpone work given by the gods. Come, let heralds of bronze-clad Achaeans summon all the soldiers to assembly. Let’s move together across the wide front, rouse Achaea’s men with blood-lust for war.”                                                             [440]
+Agamemnon, king of men, agreed with Nestor. He ordered clear-voiced heralds immediately to sound the battle call to long-haired Achaeans.                                                          520 The call went out. Troops assembled on the run. Around Agamemnon, kings nurtured by the gods rushed to establish order. With them strode Athena, her eyes glittering, holding up the aegis her priceless, ageless, eternal aegis, its hundred golden tassels quivering, each finely woven, valued at a hundred oxen. With this, she sped on through Achaean ranks,                                               like lightning, firing soldiers’ hearts for war.                                                                                        [450] As she passed, she roused in men that hot desire                                   530 to fight, to kill. At once she made each man feel war far sweeter than returning home, finer than sailing in the hollow ships back to his dear native land. Just as an all-consuming fire burns through huge forests on a mountain top, and men far off can see its light, so, as soldiers marched out, their glittering bronze blazed through the sky to heaven, an amazing sight.
+As many birds in flight—geese, cranes, and long-necked swans—                                 [460] in an Asian meadow by the flowing river Caystrios, fly here and there, proud of their strong wings, and call,                                       540 as they settle, the meadow resounding with the noise, so the many groups of soldiers moved out then from ships and huts onto Scamander’s plain. Under men’s and horses’ feet the earth rang ominously. Then they stood there, in that flowered meadow, by the Scamander, an immense array, as numerous as leaves and flowers in springtime. Like flies swarming around shepherds’ pens in spring,                                                            [470] when pails fill up with milk, so the Achaeans, a huge long-haired host, marched out onto that plain                            550 against the Trojans, eager to destroy them. Just as goatherds sort out with ease the wandering beasts, all mixed up in the pasture, so through all the army, the leaders organized the troops for battle. Among them powerful Agamemnon roamed, eyes and head like Zeus, who loves the thunder, waist like Ares, god of war, chest like Poseidon. Just as in cattle herds the bull stands out above the rest,                                                     [480] by far the most conspicuous amid the cows, so on that day Zeus made Agamemnon stand                                         560 pre-eminent among the troops, first of heroes.
+Now, you Muses living on Olympus, tell me— for you are goddesses and know everything, while we hear only stories, knowing nothing certain— tell me the leaders of Danaans, the rulers. It would be impossible for me to tell the story of or name those in the common mass, not even with ten tongues, ten mouths, an untiring voice, a heart of bronze, unless the Olympian Muses,                                                                                [490] daughters of aegis-bearing Zeus, could sing of the men,                                        570 all those who came to Troy. But I shall list the leaders, commanders of the ships, and all the ships in full.
+Peneleus, Leitus, and Arcesilaus led the Boeotians, with Clonius and Prothoenor. Their men came from Hyria, rocky Aulis, Schoenus, Scolus, mountainous Eteonus, Thespeia, Graia, spacious Mycalassus, men holding Harma, Eilesium, Erythrae; men holding Eleon, Hyle, Peteon,                                                                                                                    [500] Ocalea, the well-built fortress Medeon,                                                                                     580 Copae, Eutresis, Thisbe, city full of doves; men from Coronea, grassy Haliartus; men from Plataea, Glisas, those who held fortified Lower Thebe and sacred Onchestus, with Poseidon’s splendid grove; men from Arne, land rich in grapes, Midea, sacred Nisa, and distant Anthedon. Fifty ships came with these men, each with one hundred and twenty young Boeotians.                                                               [510]
+Men from Aspledon and Minyan Orchomenus were led by Ascalaphus and Ialmenus,                                                                                       590 Ares’ sons. Astyoche bore them in Actor’s house, Azeus’ son, to mighty Ares. She, a modest virgin, went upstairs, where the god lay with her in secret. These men brought with them a fleet of thirty ships.
+Schedius and Epistrophus, sons of Iphitus, the son of great-hearted Naubolus, commanded Phoceans—men from Cyparissus, rocky Pytho, holy Crisa, Daulis, and Panopeus;                                                                                 [520] men from Anemorea and Hyampolis; from around the sacred river Cephisus,                                                                                     600 from Lilaea, beside Cephissus’ springs. Forty black ships these two leaders brought with them. Moving around, as soldiers armed themselves, they set Phocean ranks by the Boeotians, on their left.
+The Locrians were led by swift Ajax, son of Oileus, the lesser Ajax, not the greater Ajax, son of Telamon, but a much smaller man. Though he was short and wore cloth armour, among all Hellenes and Achaeans he excelled                                                                                   [530] in fighting with his spear. Locrians came from Cynus,                                              610 Opous, Calliarus, Bessa, Scarphe, lovely Aegeiae, Tarphe, Thronion, and from around the river Boagrius. Ajax brought forty black ships of Locrians living across from sacred Euboea.
+Elephenor, offspring of Ares, son of Chalcodon, great-hearted leader, commanded the Abantes, who live to breathe war’s fury, soldiers from Euboea, Chalcis, Eretria, wine-rich Histiaea, Cerinthus by the sea, men from the steep fortress Dium, Carystus, and Styra.                                         620 These swift Abantes came with Elephenor,                                                                                           [540] their hair grown long behind, warrior spearmen, filled with fierce desire to tear apart their enemies, to pierce armed bodies with their long ash spears. Forty black ships came with Elephenor.
+Soldiers came from that well-built fortress Athens, land of proud Erechtheus, whom Athena raised, after he was born out of the harvest land. She placed him in Athens, at her own rich shrine. To him Athenian youth make sacrificial offerings,                                                         630 with bulls and rams as each year comes around.                                                                             [550] Menestheus, son of Peteos, led these men. In tactics no one alive on earth could match him for deploying chariots or shield-bearing men. Nestor, from a previous age, was his only rival. Menestheus brought with him fifty black ships.
+From Salamis Ajax commanded twelve ships. He organized his men in their positions, so they stood adjacent to Athenian ranks.
+Warriors from Argos, fortified Tiryns, Hermione,                                                           640 Asine, both with deep bays, Troezene, Eionae,                                                                                 [560] vine-rich Epidaurus, Achaean youth from Aegina, Mases— all these were led by mighty fighter Diomedes, skilled in war cries, and by Sthenelus, dear son of famous Capaneus. There was a third leader, god-like Euryalus, Mecisteus’ son, son of lord Talaus. But warlike Diomedes was the main commander. These men brought with them eighty black ships.
+Troops from the strong fortress Mycenae, rich Corinth, well-built Cleonae, Orneae, lovely Araethyrea,                                                                   650         [570] Sicyon, whose first king was Adrestus, with men from Hyperesia, lofty Gonoessa, Pellene, from Aegium, men from coastal regions and wide Helice—of these men Agamemnon, son of Atreus, led one hundred ships. The most troops came with him, the finest men by far. In their midst, Agamemnon put on a proud display, dressed in gleaming armour, prominent among all heroes. He was the best of all, because he had most men.                                                                         [580]
+Men from Lacedaemon, land of ravines, Pharis,                                                               660 Sparta, Messe, where doves congregate, men living in Bryseae, beautiful Augeiae, Amyclae, coastal Helos, men from Laäs, from around Oetylus—all these in sixty ships were led by powerful, warlike Menelaus, Agamemnon’s brother. Among these warriors, as they armed themselves some distance off, Menelaus strode—confident, courageous— rousing his troops for war, his heart passionate to avenge Helen’s struggles, her cries of pain.                                                                    670         [590]
+Men came from Pylos, lovely Arene, Thryum, by Alpheus ford, well-built Aipy, Cyparisseis, Amphigenea, Pteleum, Helos, Dorium, where the Muses met the Thracian Thamyris, and stopped his singing. He was coming back from Oechalia, from the court of Eurytus the king. He’d boasted his singing would surpass the Muses, daughters of aegis-bearing Zeus, should they compete. In their anger the Muses mutilated Thamyris, taking away his godlike power of song,                                                                                      680 and making him forget his skill in playing the lyre.                                                                      [600] Geranian horseman Nestor led these men in a flotilla of ninety hollow ships.
+Men from Arcadia, from below steep mount Cyllene, near Aepytus’ tomb, where men excel in combat hand to hand, troops from Pheneus, Orchomenus, rich in flocks, Rhipe, Stratie, windy Enispe, Tegea, lovely Mantinea, Stymphelus, Parrhasia—mighty Agapenor led these men, Ancaeus’ son, in sixty ships. Many Arcadians                                          690 came in every ship, skilled fighters. Agamemnon,                                                                          [610] king of men, had himself provided well-decked ships for them to sail across the wine-dark ocean, for these men lacked expertise in matters of the sea.
+Soldiers from Bouprasium, fair Elis, those parts bounded by Hyrmine, coastal Myrsinus, the rock of Olene, and Alesium—these troops had four commanders, each with ten swift ships. The many Epeians on board were commanded by Amphimachus, son of Cteatus, and Thalpius,                                                            700         [620] son of Eurytus, descended both from Actor. Third leader was Diores, son of Amarynces. Fourth was Polyxeinus, son of Agasthenes, Augeas’ son.
+Men from Doulichium, sacred Echinean islands, living across the sea from Elis, were commanded by warlike Meges, son of Phyleus, the horseman, loved of Zeus. Phyleus, angry with his father, moved to Doulichium. Meges brought with him forty black ships in his flotilla.
+                                           Odysseus led on                                                                                           [630] the Cephallenians, soldiers from Ithaca,                                                                                    710 well wooded Neritum, Crocylea, rugged Aegilips, from Zacynthus, Samos, both those inhabiting the mainland and those from cities on the facing shore. Odysseus, as wise as Zeus, led these troops, who came with him in twelve black ships.
+Thoas, son of Andraemon, led the Aetolians, men from Pleuron, Olenus, Pylene, coastal Chalchis, and rocky Calydon.                                                                                                            [640] Proud king Oeneus had no living sons,                                                                                      720 and he himself was dead, as was fair-haired Meleager. Thus, Thoas ruled alone. He brought forty black ships.
+Famous spearman Idomeneus led the Cretans from Cnossus, fortified Gortyn, Lyctus, Miletus, chalky Lycastus, Phaestus, Rhytium, both populous towns, with other warriors from Crete’s one hundred cities. Idomeneus, famous for fighting with a spear, led these troops,                                                                       [650] along with Meriones, as skilled at killing men as Ares, god of war. They brought eighty black ships.                                              730
+Tlepolemus, son of Hercules, a huge brave man, led nine ships of courageous troops, men from Rhodes, split into three divisions—from Lindus, Ialysus, and chalky Cameirus—all led by Tlepolemus, famous spearman, born to Astyocheia and mighty Hercules, who’d taken her from Ephyra, by the river Selleis, after razing many towns                                                                                        [660] full of vital warriors. Once he’d grown up in their well-furnished home, Tlepolemus killed his father’s uncle, Licymnius, a well-loved old man,                                                    740 a great fighter, too. At once Tlepolemus built a fleet, assembled many men, and fled away. Other sons and grandsons of great Hercules had threatened him. He suffered badly, until he came to Rhodes, whose people live in three groups split by tribes. Zeus, who governs gods and men, loved them, and so the son of Cronos blessed them with great wealth.                                                   [670]
+Nireus brought three well-balanced ships from Syme. The son of Aglaea and lord Charopus, the handsomest of all Danaans who sailed to Troy,                                                      750 after Achilles, who had no equal. But he was weak, because he had few troops.                                                                             
+                                          Men from Nisyrus, Crapathus, Casus, Cos, Eurypylus’ city, the Calydnian islands had Pheidippus and Antiphus, sons of lord Thessalus, Hercules’ son, as leaders. With them came thirty hollow ships.                                                                                                           [680]
+All the troops from Pelasgian Argos, Alos, men living in Alope, Trachis, from Phthia, and Hellas, where lovely women live, men called Myrmidons, Hellenes, Achaeans—these troops                                       760 Achilles led in fifty ships. But their minds weren’t set on the grim clash of war. They had no one to lead them. Godlike Achilles, swift of foot, sat by his ships, still angry over fair-complexioned Briseis, seized from Lyrnessus after heavy fighting.                                                                                                             [690] Achilles had laid waste Lyrnessus and Thebe’s walls, overthrown the spearmen Mynes and Epistrophus, sons of lord Euenus, son of king Selepius. Because of her, Achilles sat still grieving. But soon enough he’d rouse himself again.                                                                            770
+Troops from Phylace, flowering Pyrasus, shrine of Demeter, Iton, where flocks breed, Antrum by the sea, and grassy Pteleum— brave Protesilaus had led these men, while still alive. Now the black earth held him. In Phylace,                                                                                             [700] he left behind a wife to tear her cheeks in grief, home half complete. Some Dardanian killed him, as he jumped on Trojan soil, the first on shore, far ahead of all Achaeans. His soldiers lamented the loss of their chief, but didn’t lack a leader.                                                                  780 Warlike Podarces, son of Iphicles, led them— the man owned many flocks and was a young blood brother to Protesilaus. But that great-hearted warlike soldier was an older, better man. So these troops had a leader, though they missed the noble one they’d lost. Podarces brought forty black ships along with him.                                                                    [710]
+Troops from Pherae by Lake Boebea, from Boebeïs, Glaphyrae, well-built Iolcus—these came in eleven ships, commanded by Eumelus, Admetus’ well-loved son, born to him by Alcestis,                                                        790 loveliest of Pelias’ daughters.
+Troops from Methone, Thaumacia, Meliboea, and rugged Olizon, were led by Philoctetes, the skilled archer, in seven ships, each with fifty men, expert archers. But Philoctetes stayed behind on Lemnos,                                                  [720] the sacred island, in horrific pain, abandoned. Achaea’s sons had left him there in agony, wounded by a snake bite. He lay there in torment. But soon the Argives by their ships would have reason to remember him.* These soldiers missed their chief,                                               800 but were now led by Medon, Oïleus’ bastard son, whom Rhene bore to Oïleus, destroyer of cities. So Medon was the one who set their ranks in order.
+Men from Tricca, rocky Ithome, Oechalia, city of Eurytus, the Oechalian,                                                                                                                             [730] were commanded by two sons of Asclepius, skilled healers, Podaleirus and Machaon. They brought thirty hollow ships with them. Troops from Ormenius, from the fount of Hyperea, from Asterius, from Titanus with its white hilltops—                             810 these men were commanded by Eurypylus, fine son of Euaemon, in forty black ships. Men from Argissa, Gyrtone, Orthe, Elone, the white city Oloösson—these troops were led by Polypoetes, a steadfast soldier,                                                                                                                    [740] son of Perithous, himself son to immortal Zeus. That famous lady Hippodameia bore Polypoetes to Perithous on that very day he took revenge out on those hairy monsters, and beat them from mount Pelion towards the Aithices.                                       820 But Polypoetes was not the sole commander. With him was Leonteus, a warlike man, son of proud-hearted Coronus, Caeneus’ son. With them they brought forty black ships.
+Gouneus brought twenty-two ships from Cyphus. With him sailed the Enienes and Peraebians, reliable fighting men from cold Dodona,                                                                                                  [750] who work by the lovely river Titaressus, which empties its beautiful, flowing waters into the Peneus. These do not intermingle                                              830 with the silver stream of the Peneus, but flow along on top of them, like oil. For the Titaressus is a branch of the river Styx, dread waters by which the most solemn oaths are sealed.
+Prothous, son of Tenthredon, led the Magnetes, from the region round Peneus and mount Pelion, where leaves are always trembling in the wind. With him swift Prothous brought forty black ships.
+These men were leaders, rulers of the Danaans.                                                                               [760] Muse, tell me this—Which of them were the very best                           840 of those who came over with the sons of Atreus?
+The best horses were those of Admetus, son of Pheres. Eumelus drove them. As fast as birds, they matched each other in colour, age, and height along the back. Bred by Apollo of the silver bow in Perea, both mares, they carried terror with them. Of the men, by far the best was Ajax, son of Telamon, but only while Achilles didn’t join in battle. For Achilles was the better man by far. The horses carrying Peleus’ son, man without equal,                                                 850         [770] were much better, too. But he stayed behind, by his curved seaworthy ships, still enraged at Agamemnon, Atreus’ son, the people’s shepherd. His soldiers amused themselves beside the breaking sea by throwing spears and discus or with archery. Their horses stood near their chariots, browsing on lotus and parsley from the marsh. Their masters’ chariots, fully covered, remained stationed in the huts. Missing their warlike leader, these troops strolled here and there throughout the camp and did not fight.                                         860
+The soldiers, like a fire consuming all the land,                                                                                [780] moved on out. Earth groaned under them, just as it does when Zeus, who loves thunder, in his anger lashes the land around Typhoeus, among the Arimi, where people say Typhoeus has his lair. That’s how the earth groaned loudly under marching feet.*
+Then wind-swift Iris came to Troy as messenger from aegis-bearing Zeus carrying grim news. Trojans had summoned an assembly by Priam’s palace gates. There all had gathered, young and old. Standing by Priam,                                870 swift-footed Iris spoke, sounding like Polites, Priam’s son.                                                  [790] He’d been stationed as a scout—fully confident of his skill at running—at old Aesyetes’ tomb, right at the top, waiting for the moment Achaeans moved out from their ships. Looking just like Polites, swift-footed Iris said:
+“Priam, old man, you always love to talk about irrelevant things, as you did earlier in peacetime. But now this war continues relentlessly. I’ve gone to battle many times.                                                  880 I’ve never seen an army like this one, so many men, as numerous as leaves or grains of sand,                                                                           [800] coming across the plain to assault our city. Hector, I call on you, on you above all, to follow my instructions—the numerous allies here in Priam’s great city all speak different languages from far-scattered regions. So let each man issue orders to the ones he leads, let him now organize his countrymen, then lead them out to battle.”                                                                                      890
+Iris spoke. Hector understood her words. Immediately he ended the assembly. Men rushed to arm themselves. They opened up the gates. Troops streamed out, infantry and horses. A huge din arose.                                           [810] In the plain, some distance off, a high hill stood by itself, right before the city. People call it Batieia, but the gods know it as the tomb of agile Myrine. Here the Trojans and their allies marshalled forces.
+Hector of the flashing helmet, Priam’s son, led out the Trojans. With him marched in arms                                      900 the largest contingent, the finest men by far, eager to get working with their spears.
+Aeneas, Anchises’ worthy son, led the Dardanians. Goddess Aphrodite had borne him to Anchises.                                                                              [820] She had lain with him on the slopes of Ida. But Aeneas was not their sole commander. With him were Antenor’s two sons, Archelochus and Acamas, extremely skilled in every form of war.
+Men from Zeleia, on mount Ida’s lowest slope, wealthy Trojans, men who drink dark waters                                          910 of the river Aesepus were led by Pandarus, Lycaon’s worthy son, whom Apollo had taught archery.
+Soldiers from Adresteia, Apaesus, Pityeia, steep Mount Tereia were commanded by Adrestus                                                                     [830] and Amphius in cloth armour, Merops’ sons from Percote, who knew more of prophecy than anyone. He gave his children orders to stay away from war, which eats men up. They did not obey him. Deadly black fates had called them on to battle.
+Troops from Percote, Practius, Sestos, Abydos,                                                                920 holy Arisbe—these troops were led by Asius, son of Hyrtacus, an important ruler. Arius’s huge, tawny horses brought him from Arisbe, from the river Selleïs.
+Hippothous led tribes of spearmen from Pelasgia,                                                                        [840] fertile Larisa, along with Pylaeus, offshoots of Ares, sons of Pelasgian Lethus, Teutamus’s son.
+Acamas and warlike Peirous led the Thracians, those men bounded by the Hellespont’s strong flow.
+Euphemus, son of god-nurtured Troezenus,                                                                       930 son of Ceos, led Ciconian spearmen.
+Pyraechmes led archers from Paeonia, from far off Amydon, by the Axius, a broad flowing river, whose moving waters                                                                                         [850] are the loveliest on earth.                                                                              
+                                                          Pylaemenes, a brave soldier, commanded Paphlagonians from Enetae, where herds of mules run wild, men from Cytorus, from around Sesamus, those with fine homes by the stream Parthenius, from Cromna, Aegialus, high Erithini.                                                                                         940 Odius and Epistrophus led the Halizoni from distant Alybe, where men mine silver. Chromis and prophet Ennomus led the Mysians. But Ennomus’ great skill in prophecy did not allow him to evade his deadly fate. Swift Achilles, descendant of Aeacus, killed him                                                                            [860] in the river where he slaughtered other Trojans. Phorcys and noble Ascanius led up Phrygians from far-off Ascania, men keen for war.
+Mesthles and Antiphus commanded the Maeonians.                                                 950 Sons of Talaemenes, born to Gygaea, a water nymph, they led Maeonians from around the foot of Mount Tmolus.
+Nastes led the Carians, men with a strange language, from Miletus, Phthires, with its wooded mountain, Maeander’s waters and high peaks of Mount Mycale. Nastes and Amphimachus, noble sons of Nomion                                                                         [870] were their leaders. Nastes went to war carrying gold, like a girl. What a fool! His gold did not spare him a wretched death. He died in the river,                                                                                      960 at the hand of swift Achilles, descended from Aeacus. Fiery Achilles carried off his gold.
+Sarpedon and noble Glaucus commanded Lycians, from distant Lycia, by the swirling river Xanthus.
+</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Flag (Green Flag).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,45030</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="975837D3-ACCD-4E73-9A5E-2263CEFC5F40" Type="Text" Created="2016-04-25 14:41:39 -0500" Modified="2016-04-25 15:01:05 -0500">
+                    <Title>Book III</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Flag (Green Flag).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1046,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="48" UUID="6D538D4F-FFC2-4B29-B591-43384D074C21" Type="Text" Created="2016-04-26 18:11:26 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="49" UUID="1051BF38-E02C-46B3-A9E8-B2155A2850B7" Type="Text" Created="2016-04-26 18:11:27 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="50" UUID="E13A3412-282F-4659-8B4F-5A413FC48D7C" Type="Text" Created="2016-04-26 18:11:28 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="51" UUID="3ECE5F9F-5BF8-45F0-B83D-5FF97D2D8A5F" Type="Text" Created="2016-04-26 18:11:28 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="52" UUID="31B9DC31-10B8-467A-AD32-F7A05483DE34" Type="Text" Created="2016-04-26 18:11:28 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="53" UUID="C4AFEF4E-A574-479F-8783-406E4190AC7B" Type="Text" Created="2016-04-26 18:11:29 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="54" UUID="368514F9-F236-498A-A657-FAFE2D48CB46" Type="Text" Created="2016-04-26 18:11:29 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="55" UUID="0939F40C-3AC6-4FD1-96F7-7F279C814DE0" Type="Text" Created="2016-04-26 18:11:30 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="56" UUID="0FAF6FFD-5F91-47F5-BC70-CBE230D68E4B" Type="Text" Created="2016-04-26 18:11:30 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="57" UUID="EEA28351-812E-4962-A710-510555110050" Type="Text" Created="2016-04-26 18:11:30 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="58" UUID="4A82C6B2-7B67-4992-8DB8-AFC70BB0EC15" Type="Text" Created="2016-04-26 18:11:31 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="47" UUID="120F5FDF-F636-46E0-A583-FF333EDFD3C4" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="67" UUID="7FC9CC7C-A664-44C2-AF31-681CD6817324" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:12:21 -0500">
+                    <Title>Untitled copy-8</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="66" UUID="99248C64-2410-4A7C-86C9-3930960B3C97" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled copy-7</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="65" UUID="D8C6C45F-57C6-46DF-AF40-E84E6DCDBD3E" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled copy-6</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="64" UUID="AD5DBB44-CC15-4D77-8377-4305FFDE9A97" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled copy-5</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="63" UUID="CE62BAA8-EA51-4342-87DC-0A22E8E38E3D" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled copy-4</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="62" UUID="2FD18BF2-BC1F-45CB-BFEE-2CC295AB0547" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled copy-3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="61" UUID="53C8EA1B-8FAF-4D34-9658-AFC62BA513CF" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled copy-2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="60" UUID="6FD1C2CD-A12A-4AF9-8ACE-B8A567459AD2" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled copy-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,1</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="59" UUID="7794042E-38D5-4914-895E-3F7A3D386F52" Type="Text" Created="2016-04-26 18:11:24 -0500" Modified="2016-04-26 18:11:56 -0500">
+                    <Title>Untitled copy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="79" UUID="C638B04C-A3F8-4D25-A3C7-7A1DE8F0DFEE" Type="Text" Created="2016-04-26 22:07:43 -0500" Modified="2016-04-26 22:15:19 -0500">
+                    <Title>Book Twenty Four</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>478,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="F71FE1BB-C3AD-40DD-A8C2-7DCC8C604855" Type="Text" Created="2016-04-25 14:45:32 -0500" Modified="2016-04-25 15:18:50 -0500">
+                    <Title>Book IV</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Flag (Purple Flag).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>589,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="A6C22E72-893D-4385-B835-BEFDCE6AE61A" Type="Text" Created="2016-04-25 22:45:02 -0500" Modified="2016-04-26 10:32:31 -0500">
+                    <Title>Book V</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Flag (Green Flag).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4119,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="A62F9286-773E-44FB-A616-A78539A1EEFC" Type="Text" Created="2016-04-25 22:45:15 -0500" Modified="2016-04-26 10:45:03 -0500">
+                    <Title>Book VI</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,34606</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="34" UUID="FA8A63F1-CB93-439A-B90C-5D6B02C99AEC" Type="Text" Created="2016-04-26 15:51:15 -0500" Modified="2016-04-26 15:51:54 -0500">
+                    <Title>Book VI 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="30" UUID="8351167A-AFAB-4434-8F93-4F9A4E3B5E2D" Type="Text" Created="2016-04-25 22:45:15 -0500" Modified="2016-04-26 11:08:01 -0500">
+                    <Title>Book VI copy</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>783,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" UUID="078E5AE4-0773-4FBD-B758-FC6BAB4A9F74" Type="Text" Created="2016-04-25 22:46:37 -0500" Modified="2016-04-25 22:47:03 -0500">
+                    <Title>Book VII</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" UUID="952FBDE6-D6CE-474A-917E-45F9B9491E2E" Type="Text" Created="2016-04-25 22:47:05 -0500" Modified="2016-04-25 22:47:45 -0500">
+                    <Title>Book VIII</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>35749,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="5DBB35B0-A897-43E7-8684-F0A5CC1357EA" Type="Text" Created="2016-04-25 22:47:54 -0500" Modified="2016-04-25 22:48:26 -0500">
+                    <Title>Book IX</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,46006</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" UUID="85C30199-2A21-4D87-8626-D97C141D1E18" Type="Text" Created="2016-04-25 22:48:21 -0500" Modified="2016-04-25 22:48:51 -0500">
+                    <Title>Book X</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>663,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" UUID="11AB4533-9E0A-4368-BA31-3C8014E24E48" Type="Text" Created="2016-04-25 23:02:59 -0500" Modified="2016-04-25 23:05:06 -0500">
+                    <Title>Book XI</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>54903,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" UUID="921129D4-7A9D-4198-91FA-ACF7733E36E7" Type="Text" Created="2016-04-25 23:04:59 -0500" Modified="2016-04-25 23:05:55 -0500">
+                    <Title>Book XII</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>613,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" UUID="1176DE46-5EE3-4E75-AA0F-ABD758203C65" Type="Text" Created="2016-04-25 23:11:21 -0500" Modified="2016-04-25 23:12:17 -0500">
+                    <Title>Book XIII</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>723,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="18" UUID="93550D41-95D2-4FED-A677-55755C20CDBA" Type="Text" Created="2016-04-25 23:12:29 -0500" Modified="2016-04-25 23:12:59 -0500">
+                    <Title>Book XIV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,34106</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="19" UUID="C2324F3D-C808-4236-9B16-C5C4343E77F0" Type="Text" Created="2016-04-25 23:13:00 -0500" Modified="2016-04-25 23:13:27 -0500">
+                    <Title>Book XV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,49372</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="20" UUID="4D0578FC-919A-45C1-B775-A0B9142237CA" Type="Text" Created="2016-04-25 23:13:22 -0500" Modified="2016-04-25 23:13:49 -0500">
+                    <Title>Book XVI</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>57171,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" UUID="71DA7D19-5A4C-4C6D-A8DE-E34E4DE29F04" Type="Text" Created="2016-04-25 23:13:44 -0500" Modified="2016-04-25 23:14:18 -0500">
+                    <Title>Book XVII</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,52445</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="22" UUID="1C21BD7F-0D75-40B0-A65B-92C49D92FDAF" Type="Text" Created="2016-04-25 23:14:35 -0500" Modified="2016-04-25 23:15:20 -0500">
+                    <Title>Book XVIII</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="23" UUID="95C72D6A-F00D-4E4E-9D04-EADDCE6B84FC" Type="Text" Created="2016-04-25 23:15:22 -0500" Modified="2016-04-25 23:15:50 -0500">
+                    <Title>Book XIX</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>27375,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="24" UUID="409AE1BF-544E-4A25-9DA2-9E0C6A09BEB1" Type="Text" Created="2016-04-25 23:15:46 -0500" Modified="2016-04-25 23:16:07 -0500">
+                    <Title>Book XX</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32667,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="25" UUID="54CF19C1-4CE5-4A6A-BD8E-DACC8DB66BB9" Type="Text" Created="2016-04-25 23:16:20 -0500" Modified="2016-04-25 23:16:33 -0500">
+                    <Title>Book XXI</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>24298,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="26" UUID="8C550291-CFE6-471B-9F03-93670329FDF3" Type="Text" Created="2016-04-25 23:16:45 -0500" Modified="2016-04-25 23:16:54 -0500">
+                    <Title>Book XXII</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1104,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="27" UUID="81736A60-7201-4993-B04C-6F0BBE41823F" Type="Text" Created="2016-04-25 23:17:06 -0500" Modified="2016-04-25 23:17:21 -0500">
+                    <Title>Book XXIII</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>60687,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="28" UUID="35B294D6-FBA9-4A56-8669-3768110401B8" Type="Text" Created="2016-04-25 23:17:16 -0500" Modified="2016-04-25 23:17:42 -0500">
+                    <Title>Book XXIV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>53771,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="38" UUID="25FACEBD-B64D-499F-851A-05AD8BB85FD8" Type="Folder" Created="2016-04-26 16:30:34 -0500" Modified="2016-04-26 16:30:38 -0500">
+                    <Title>Final Draft</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>6</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="82" UUID="82D8F4E5-ABDD-421E-9B2B-EDB9D1177225" Type="Text" Created="2016-04-27 13:30:55 -0500" Modified="2016-04-27 13:30:55 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="5B8805F3-5A15-4278-8D2D-6A30086C28A6" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="62D24615-43A6-4BF8-BC9D-071E145D230F" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="D543CE2E-C335-464B-A84D-85AB6F395FA2" Color="0.926259 0.957504 0.702887">
+            <Title>Syllabus</Title>
+            <BinderIDs>
+                <BinderID>81</BinderID>
+                <BinderID>84</BinderID>
+                <BinderID>6</BinderID>
+                <BinderID>39</BinderID>
+                <BinderID>43</BinderID>
+                <BinderID>71</BinderID>
+                <BinderID>77</BinderID>
+                <BinderID>80</BinderID>
+            </BinderIDs>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectProperties>
+        <ProjectTitle>The Iliad (Select Books)</ProjectTitle>
+        <AbbreviatedTitle>The Iliad (Select Books)</AbbreviatedTitle>
+        <FullName>Homer</FullName>
+        <LastName>Homer</LastName>
+        <FirstName>Homer</FirstName>
+    </ProjectProperties>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-04-25 13:39:41 -0500" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="76" Characters="417" Date="2016-05-12 12:05:06 -0500"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
