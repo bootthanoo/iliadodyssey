@@ -40,7 +40,7 @@ This is a reformatting and compilation of [Ian Johnston's translation](http://re
 
 This project began when I started searching online for a downloadable version of The Iliad and The Odyssey. After Googling for a long time, I couldn't find a free download online that is in poetry form. I gave up and decided to make one myself.
 
-Like, really? How is there *not* a free download of the Iliad and Odyssey in its poetry form?
+Like, really? How is there *not* a free download of this?
 
 Ian Johnston translated the I&O and posted it online under the copyright of...
 
