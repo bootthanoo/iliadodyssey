@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Baileys-MacBook-Air" Modified="2016-05-12 16:05:20 -0500" ModID="EE2699CB-7EC6-4D60-B94A-398C0C103C54">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Baileys-MacBook-Air" Modified="2016-05-12 19:24:59 -0500" ModID="B6D84128-3890-498C-96A0-9B914EFBF76C">
     <Binder>
         <BinderItem ID="0" UUID="EFE0B83F-1927-460C-A669-6CE59E5886F1" Type="DraftFolder" Created="2016-04-25 13:39:42 -0500" Modified="2016-04-25 13:39:42 -0500">
             <Title>Draft</Title>
@@ -7,11 +7,21 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
+                <BinderItem ID="81" UUID="046E678D-008C-450F-BEE6-B5F8F29B942E" Type="Text" Created="2016-04-27 00:07:04 -0500" Modified="2016-05-12 12:11:44 -0500">
+                    <Title>Cover Page</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1315,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="83" UUID="91BECB83-6D00-4DF7-9FE5-3ED2D48FB80A" Type="Text" Created="2016-05-12 12:09:58 -0500" Modified="2016-05-12 12:10:13 -0500">
                     <Title>TOC</Title>
                     <MetaData>
                         <PageBreakBefore>Yes</PageBreakBefore>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -333,17 +343,6 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,104</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="81" UUID="046E678D-008C-450F-BEE6-B5F8F29B942E" Type="Text" Created="2016-04-27 00:07:04 -0500" Modified="2016-05-12 12:11:44 -0500">
-                    <Title>Cover Page</Title>
-                    <MetaData>
-                        <PageBreakBefore>Yes</PageBreakBefore>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1315,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Baileys-MacBook-Air" Modified="2016-05-12 14:24:20 -0500" ModID="12AFD136-16FB-4080-970D-D385FBE32D9F">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Baileys-MacBook-Air" Modified="2016-05-12 19:17:32 -0500" ModID="D2D326B4-2521-402B-9B82-80A62AC70B5B">
     <Binder>
         <BinderItem ID="0" UUID="67D7C10F-6F5E-46FF-BFAB-C2F2E7A46972" Type="DraftFolder" Created="2016-04-27 13:31:18 -0500" Modified="2016-04-27 13:31:18 -0500">
             <Title>Draft</Title>
@@ -7,7 +7,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="27" UUID="D1824E90-CE89-4905-9426-602E0B8286EE" Type="Text" Created="2016-05-11 12:36:09 -0500" Modified="2016-05-12 11:33:02 -0500">
+                <BinderItem ID="27" UUID="D1824E90-CE89-4905-9426-602E0B8286EE" Type="Text" Created="2016-05-11 12:36:09 -0500" Modified="2016-05-12 18:40:56 -0500">
                     <Title>Cover Page</Title>
                     <MetaData>
                         <PageBreakBefore>Yes</PageBreakBefore>
@@ -15,7 +15,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>849,0</TextSelection>
+                        <TextSelection>695,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="31" UUID="21189A38-DAA0-4BE8-841F-996CB6FD4F00" Type="Text" Created="2016-05-12 11:45:07 -0500" Modified="2016-05-12 11:48:26 -0500">
@@ -80,7 +80,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>74,0</TextSelection>
+                        <TextSelection>586,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="9" UUID="7AEEED0B-653D-4F42-8FB0-1C304D8D40A7" Type="Text" Created="2016-04-27 14:30:08 -0500" Modified="2016-05-11 12:42:13 -0500">
@@ -157,7 +157,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11,0</TextSelection>
+                        <TextSelection>1224,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="16" UUID="68A27A84-FE45-4D49-B861-008DD2F3576B" Type="Text" Created="2016-05-07 16:19:47 -0500" Modified="2016-05-11 12:42:13 -0500">
@@ -281,7 +281,7 @@
                         <TextSelection>1782,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="28" UUID="7EC7A95C-4E7A-4E0C-A8E1-039AFE72EE02" Type="Text" Created="2016-05-11 12:39:16 -0500" Modified="2016-05-12 11:44:23 -0500">
+                <BinderItem ID="28" UUID="7EC7A95C-4E7A-4E0C-A8E1-039AFE72EE02" Type="Text" Created="2016-05-11 12:39:16 -0500" Modified="2016-05-12 18:29:45 -0500">
                     <Title>BOOK TWENTY-FOUR</Title>
                     <MetaData>
                         <PageBreakBefore>Yes</PageBreakBefore>
@@ -289,17 +289,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,46478</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="32" UUID="7DCCE3E5-367D-4B8C-8728-F3F0A3207446" Type="Text" Created="2016-05-12 14:24:06 -0500" Modified="2016-05-12 14:24:08 -0500">
-                    <Title>`</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>16,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -310,8 +300,8 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="30" UUID="28520066-D7D6-4BD5-B13C-219075C3777E" Type="Folder" Created="2016-05-12 11:42:41 -0500" Modified="2016-05-12 11:42:41 -0500">
-            <Title>Garriga (Unsorted)</Title>
+        <BinderItem ID="30" UUID="28520066-D7D6-4BD5-B13C-219075C3777E" Type="Folder" Created="2016-05-12 11:42:41 -0500" Modified="2016-05-12 18:51:52 -0500">
+            <Title>Select Books (Unsorted)</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -325,7 +315,6 @@
                     <Title>TOC</Title>
                     <MetaData>
                         <PageBreakBefore>Yes</PageBreakBefore>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -350,6 +339,36 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="33" UUID="69F6949B-E74E-42D3-9C57-151EDD73C8AD" Type="Text" Created="2016-05-12 18:01:38 -0500" Modified="2016-05-12 18:01:38 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="34" UUID="6BE44EB9-95FB-408C-B320-DF3D134CD272" Type="Text" Created="2016-05-12 18:05:09 -0500" Modified="2016-05-12 18:05:09 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="32" UUID="7DCCE3E5-367D-4B8C-8728-F3F0A3207446" Type="Text" Created="2016-05-12 14:24:06 -0500" Modified="2016-05-12 14:24:08 -0500">
+                    <Title>`</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -361,7 +380,7 @@
             <Title>Search Results</Title>
         </Collection>
         <Collection Type="Arbitrary" ID="35077D68-F497-42CE-8A93-165D5D441C4E" Color="0.870716 0.758261 0.85014">
-            <Title>Garriga</Title>
+            <Title>Select Books</Title>
             <BinderIDs>
                 <BinderID>27</BinderID>
                 <BinderID>29</BinderID>
@@ -399,8 +418,8 @@
         </StatusItems>
     </StatusSettings>
     <ProjectProperties>
-        <ProjectTitle>The Odyssey</ProjectTitle>
-        <AbbreviatedTitle>The Odyssey</AbbreviatedTitle>
+        <ProjectTitle>The Odyssey (Select Books)</ProjectTitle>
+        <AbbreviatedTitle>The Odyssey (Select Books)</AbbreviatedTitle>
         <FullName>Homer</FullName>
         <LastName></LastName>
         <FirstName></FirstName>
@@ -408,7 +427,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-04-27 13:31:17 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="76" Characters="417" Date="2016-05-12 11:26:44 -0500"></PreviousSession>
+        <PreviousSession Words="76" Characters="419" Date="2016-05-12 11:26:44 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
