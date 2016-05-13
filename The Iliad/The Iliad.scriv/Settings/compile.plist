@@ -11,7 +11,7 @@
 	<key>KBPreserveFormattingPreservesTabsAndIndents</key>
 	<true/>
 	<key>SCRCompileAddFrontMatterKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileAlternativeBlankLineSeparatorKey</key>
 	<string>* * *</string>
 	<key>SCRCompileAnnotationsRTFConversionTypeKey</key>
@@ -543,7 +543,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileFootnotesStyleKey</key>
 	<integer>0</integer>
 	<key>SCRCompileFormatKey</key>
-	<integer>10</integer>
+	<integer>12</integer>
 	<key>SCRCompileFormattingKey</key>
 	<array>
 		<dict>
