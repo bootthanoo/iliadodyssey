@@ -98,6 +98,7 @@ You can download all the files by clicking the .zip or the .tar.gz links at the 
     * [22](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Individual%20Books/theiliad-book-22.pdf)
     * [23](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Individual%20Books/theiliad-book-23.pdf)
     * [24](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Individual%20Books/theiliad-book-24.pdf)
+ * The Scrivener download is included in the .zip and .tar.gz bundle at the top of the page
 
 * The Odyssey
  * Full Books
@@ -137,3 +138,4 @@ You can download all the files by clicking the .zip or the .tar.gz links at the 
     * [22](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Individual%20Books/theodyssey-book-22.pdf)
     * [23](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Individual%20Books/theodyssey-book-23.pdf)
     * [24](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Individual%20Books/theodyssey-book-24.pdf)
+ * The Scrivener download is included in the .zip and .tar.gz bundle at the top of the page
