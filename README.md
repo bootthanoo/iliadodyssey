@@ -9,17 +9,11 @@
 * [Read The Iliad Online](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Full%20Book/theiliad.html)
 * [Read The Odyssey Online](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Full%20Book/theodyssey.html)
 
-<<<<<<< HEAD
-
-
-
-=======
 * [Download Help](help.md)
 
 
 
 
->>>>>>> master
 ## What This Project Is
 
 #### The Iliad and The Odyssey
