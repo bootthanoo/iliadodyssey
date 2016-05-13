@@ -1,20 +1,26 @@
 # The Iliad and The Odyssey
 
-#### Quick Downloads
+### Quick Downloads
 
-[The Iliad Full PDF](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Full%20Book/theiliad.pdf) | [The Iliad Select Books PDF](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Select%20Books/theiliad-select-books.pdf)
+* [The Iliad Full PDF](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Full%20Book/theiliad.pdf)
+* [The Iliad Select Books PDF](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Select%20Books/theiliad-select-books.pdf)
+* [The Odyssey Full PDF](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Full%20Book/theodyssey.pdf)
+* [The Odyssey Select Books PDF](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Select%20Books/theodyssey-select-books.pdf)
+* [Read The Iliad Online](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Full%20Book/theiliad.html)
+* [Read The Odyssey Online](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Full%20Book/theodyssey.html)
 
-[The Odyssey Full PDF](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Full%20Book/theodyssey.pdf) | [The Odyssey Select Books PDF](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Select%20Books/theodyssey-select-books.pdf)
-
-[Read The Iliad Online](https://bootthanoo.github.io/iliadodyssey/The%20Iliad/Full%20Book/theiliad.html)
-
-[Read The Odyssey Online](https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Full%20Book/theodyssey.html)
-
-
-
+<<<<<<< HEAD
 
 
-## What This Is
+
+=======
+* [Download Help](help.md)
+
+
+
+
+>>>>>>> master
+## What This Project Is
 
 #### The Iliad and The Odyssey
 * With line numbers
